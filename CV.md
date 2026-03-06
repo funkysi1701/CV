@@ -1,14 +1,14 @@
 # Simon Foster  
 funkysi1701@gmail.com
 
-- Yorkshire, UK
+- Yorkshire, UK (open to remote/hybrid)
 - https://www.funkysi1701.com
 - https://uk.linkedin.com/in/funkysi1701
 - https://github.com/funkysi1701
 
 ## Profile
 
-Results-driven .Net C# Developer with extensive experience across C# .Net, JavaScript, SQL Server, Azure, and AWS. Adept at automating development and deployment processes, with a strong background in system administration and a passion for continuous improvement and DevOps best practices.
+Senior .NET Developer with 10+ years building and modernising business-critical web platforms in C#, ASP.NET, SQL Server, and Azure. Proven track record delivering microservice improvements, reducing cloud costs, and improving deployment reliability through CI/CD and DevOps practices. Seeking a senior backend/full-stack role where I can lead delivery and continuous improvement.
 
 ## Skills
 
@@ -59,14 +59,8 @@ Results-driven .Net C# Developer with extensive experience across C# .Net, JavaS
 - Installed and maintained TeamCity build server for frequent, low-downtime updates.
 
 ### January 2011 – June 2014 — IT Manager, Eurosafe UK
-- Managed IT department operations and staff workloads.
-- Led network upgrade projects and coordinated with contractors/consultants.
-- Ensured smooth operation of cloud computing products.
 
 ### October 2006 – January 2011 — System Administrator, Eurosafe UK
-- Provided front-line IT support for multiple offices and external clients.
-- Administered Active Directory, websites, FTP, VPN, and Exchange.
-- Maintained backups and converted Health & Safety files to HTML.
 
 ### May 2005 – October 2006 — Customer Service Representative, Norwich Union
 
@@ -86,7 +80,3 @@ Results-driven .Net C# Developer with extensive experience across C# .Net, JavaS
 - 1999–2003: MPhys (Hons) Experimental Physics, University of York (2:2)
 - 1997–1999: Redhill Sixth Form — Physics (A), Maths (A), Chemistry (C), Further Maths (D)
 - 1992–1997: Redhill Comprehensive School — 9 GCSEs (A*–D) including Science, Mathematics, and English
-
-## Hobbies & Interests
-
-Proud father to James (born 2015) and Edward (born 2017). Enjoy spending time with family, following science fiction (especially Star Trek), and staying up to date with the latest technology trends.
