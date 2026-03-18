@@ -14,10 +14,16 @@ Senior .NET Developer with 10+ years building and modernising business-critical 
 
 - Languages: C#, JavaScript, SQL, VBA
 - Cloud: Azure, AWS
-- DevOps: Azure DevOps, TeamCity, Git, CI/CD pipelines
+- DevOps: Azure DevOps, TeamCity, Git, CI/CD pipelines, Kubernetes, Grafana
 - Databases: SQL Server, MS Access
-- Web: ASP.Net MVC, REST APIs
+- Web: ASP.NET MVC, REST APIs
 - Other: Microservices, Agile, Unit/Integration Testing
+
+## AI
+
+- GitHub Copilot: use in day-to-day development for code generation, refactoring, and review support (with human oversight).
+- Semantic Kernel (C#): personal projects integrating OpenAI models; prompt engineering and orchestration.
+- Pragmatic approach: treat LLM output as a draft; verify with tests and code review, and avoid sharing sensitive data.
 
 ## Work Experience
 
@@ -49,7 +55,7 @@ Senior .NET Developer with 10+ years building and modernising business-critical 
 ### October 2016 – June 2018 — Web Applications Developer, Counter Intelligence Retail (NPD Travel Retail)
 - Designed, developed, and released client websites.
 - Introduced source control and continuous deployment pipelines with approval gates and code reviews.
-- Modernized legacy webform applications to ASP.Net MVC.
+- Modernized legacy webform applications to ASP.NET MVC.
 - Automated data loading processes and migrated web applications to Azure PaaS with global redundancy.
 
 ### June 2014 – October 2016 — Developer/IT Manager, Eurosafe UK
