@@ -21,7 +21,7 @@ Senior .NET Developer with 10+ years building and modernising business-critical 
 
 ## AI
 
-I am familiar with using Github copilot in my development workflow to create and review code. I have used semantic kernel in my personal projects to make use of an openai model for solving problems.
+I am familiar with using GitHub Copilot in my development workflow to create and review code. I have used Semantic Kernel in my personal projects to make use of an OpenAI model for solving problems.
 
 ## Work Experience
 
