@@ -19,7 +19,7 @@ Senior .NET Developer with 10+ years building and modernising business-critical 
 - Web: ASP.Net MVC, REST APIs
 - Other: Microservices, Agile, Unit/Integration Testing
 
-## AI / GenAI
+## AI
 
 - GitHub Copilot: use in day-to-day development for code generation, refactoring, and review support (with human oversight).
 - Semantic Kernel (C#): personal projects integrating OpenAI models; prompt engineering and orchestration.
