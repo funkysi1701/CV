@@ -19,6 +19,10 @@ Senior .NET Developer with 10+ years building and modernising business-critical 
 - Web: ASP.Net MVC, REST APIs
 - Other: Microservices, Agile, Unit/Integration Testing
 
+## AI
+
+I am familiar with using Github copilot in my development workflow to create and review code. I have used semantic kernel in my personal projects to make use of an openai model for solving problems.
+
 ## Work Experience
 
 ### January 2023 – Present — Software Developer, Optix Software
