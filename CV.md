@@ -19,9 +19,11 @@ Senior .NET Developer with 10+ years building and modernising business-critical 
 - Web: ASP.Net MVC, REST APIs
 - Other: Microservices, Agile, Unit/Integration Testing
 
-## AI
+## AI / GenAI
 
-I am familiar with using Github copilot in my development workflow to create and review code. I have used semantic kernel in my personal projects to make use of an openai model for solving problems.
+- GitHub Copilot: use in day-to-day development for code generation, refactoring, and review support (with human oversight).
+- Semantic Kernel (C#): personal projects integrating OpenAI models; prompt engineering and orchestration.
+- Pragmatic approach: treat LLM output as a draft; verify with tests and code review, and avoid sharing sensitive data.
 
 ## Work Experience
 
