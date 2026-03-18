@@ -14,7 +14,7 @@ Senior .NET Developer with 10+ years building and modernising business-critical 
 
 - Languages: C#, JavaScript, SQL, VBA
 - Cloud: Azure, AWS
-- DevOps: Azure DevOps, TeamCity, Git, CI/CD pipelines
+- DevOps: Azure DevOps, TeamCity, Git, CI/CD pipelines, Kubernetes, Grafana
 - Databases: SQL Server, MS Access
 - Web: ASP.NET MVC, REST APIs
 - Other: Microservices, Agile, Unit/Integration Testing
