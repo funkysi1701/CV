@@ -27,7 +27,7 @@ Senior .NET Developer with 10+ years building and modernising business-critical 
 
 ## Work Experience
 
-### January 2023 – Present — Software Developer, Optix Software
+### January 2023 – March 2026 — Software Developer, Optix Software
 - Drive continuous improvement projects and cross-cutting initiatives across a microservices estate as part of the DevOps team.
 - Enhanced backend services for Optix 2, enabling seamless payment processing and product/service sales for customers.
 - Collaborate with cross-functional teams to deliver high-quality, maintainable code.
