@@ -12,7 +12,7 @@ Senior .NET Developer with 10+ years building and modernising business-critical 
 
 ## Skills
 
-- Languages: C#, JavaScript, SQL, VBA
+- Languages: C# (.Net Framework and .Net Core 3-10), JavaScript, SQL, VBA
 - Cloud: Azure, AWS
 - DevOps: Azure DevOps, TeamCity, Git, CI/CD pipelines, Kubernetes, Grafana
 - Databases: SQL Server, MS Access
@@ -31,26 +31,31 @@ Senior .NET Developer with 10+ years building and modernising business-critical 
 - Drive continuous improvement projects and cross-cutting initiatives across a microservices estate as part of the DevOps team.
 - Enhanced backend services for Optix 2, enabling seamless payment processing and product/service sales for customers.
 - Collaborate with cross-functional teams to deliver high-quality, maintainable code.
+- Tech Stack: .Net 7/8/9, SQL Server, Elastic Search, Grafana, Kubernetes (On Prem)
 
 ### October 2021 – November 2022 — Senior Developer, BlueTree Group
 - Maintained and improved www.instantprint.co.uk and internal systems/APIs within a microservice architecture.
 - Contributed to agile development, code reviews, and knowledge sharing within the team.
 - Ensured robust deployments and high code quality through collaboration with testers, project managers, and business stakeholders.
+- Tech Stack: .Net 6/7, SQL Server/MySQL, Datadog, AWS
 
 ### March 2020 – September 2021 — Senior Developer, Tersus Consultancy (formerly Eurosafe UK)
 - Built and maintained web applications for internal business processes, integrating IT systems post-acquisition.
 - Exported legacy application data for third-party system integration.
 - Maintained the SaaS product Ultimate Manager, authored unit/integration tests, and scheduled deployments.
 - Reduced Azure costs by consolidating and migrating services.
+- Tech Stack: .Net 3/5/6, Blazor, SQL Server, Application Insights, Azure
 
 ### July 2019 – March 2020 — IT Consultant & Contract Developer, Eurosafe UK
 - Architected, built, and deployed solutions tailored to business needs using .Net Core, REST APIs, Azure, and Azure DevOps.
 - Guided platform migrations and ensured alignment between requirements and deliverables.
+- Tech Stack: .Net 3/5/6, Blazor, SQL Server, Application Insights, Azure
 
 ### June 2018 – June 2019 — Software Engineer, Tunstall Healthcare
 - Developed new features, fixed bugs, and collaborated with business owners and testers in an agile team.
 - Led code review initiatives and contributed to API and Swagger documentation.
 - Mentored graduate developers.
+- Tech Stack: .Net Framework/.Net Core 2, SQL Server, Azure/On Prem
 
 ### October 2016 – June 2018 — Web Applications Developer, Counter Intelligence Retail (NPD Travel Retail)
 - Designed, developed, and released client websites.
